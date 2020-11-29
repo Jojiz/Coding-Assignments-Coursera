@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+	<meta charset="utf-8"> 
+	<meta name="viewponit" content="width=device-width, initial-scale=1">
+	<title> Haiku by Issa Kobayashi </title>
+</head>
+
+<body>
+<div class="row">
+	<div class= "col-lg-3 col-md-3 col-sm-3>
+		<h1> under the evening moon  </h1>
+			<p> Under the evening moon, the snail, is stripped to the waist.</p>
+	</div)
+
+	<div class= "col-lg-3 col-md-3 col-sm-3>
+		<h2> even with insects </h2>
+			<p> Even with insects—some can sing, some can’t </p>
+	</div)
+
+	<div class= "col-lg-3 col-md-3 col-sm-3">
+		<h3> If Not for the Cat</h3>
+			<p> If not for the cat, And the scarcity of cheese, I could be content</p>
+	</div)
+</div>
+
+</body>
+
+</html>
