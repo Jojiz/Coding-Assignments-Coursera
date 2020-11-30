@@ -21,8 +21,7 @@ div{
 	background-color: grey;
 	border:1px solid black;
 	position: relative;
-	padding: 10px;
-}
+	}
 	
 	
 p{
@@ -30,6 +29,7 @@ p{
 	border:1px; 
 	border:black;
 	float: left;
+	margin: 2px;
 }
 
 #p1{
@@ -38,6 +38,8 @@ p{
 	top: 1px;
 	right: 1px;
 	border: black;
+	float: left;
+	margin: 2px;
 }
 	
 #p2{
@@ -46,6 +48,8 @@ p{
 	top: 1px;
 	right: 1px;
 	border: black;
+	float: left;
+	margin: 2px;
 	
 }
 
@@ -55,12 +59,13 @@ p{
 	top: 1px;
 	right: 1px;
 	border: black;
+	float: left;
+	margin: 2px;
 }
 
 @media (min-width: 992px) {
 	.col-lg-1,.col-lg-2,.col-lg-3{
 	float: left;
-	margin: 2px;
 }
 
 	.col-lg-1{
@@ -79,7 +84,6 @@ p{
 @media (min-width: 768px) and (max-width: 991px) {
 		.col-md-1,.col-md-2,.col-md-3 {
 		float: left;
-		margin: 2px;
 		}
 
 	.col-md-1{
