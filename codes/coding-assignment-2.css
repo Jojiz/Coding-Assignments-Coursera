@@ -28,7 +28,6 @@ p{
 	color:black;
 	border:1px; 
 	border:black;
-	float: left;
 	margin: 2px;
 	padding: 10px;
 	
@@ -41,7 +40,7 @@ p{
 	right: 1px;
 	border: 10px;
 	float: left;
-	margin: 2px;
+	margin: 20px;
 	clear: right;
 	padding: 50px;
 }
@@ -53,7 +52,7 @@ p{
 	right: 1px;
 	border: 10px;
 	float: left;
-	margin: 2px;
+	margin: 20px;
 	clear: right;
 	padding: 50px;
 	
@@ -66,7 +65,7 @@ p{
 	right: 1px;
 	border: 10px;
 	float: left;
-	margin: 2px;
+	margin: 20px;
 	clear: right;
 	padding: 50px;
 }
