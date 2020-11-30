@@ -36,8 +36,8 @@ p{
 #p1{
 	background-color:orange;
 	position: absolute;
-	top: 1px;
-	right: 1px;
+	top: 0;
+	right: 0;
 	border: 10px;
 	border: black;
 	float: left;
@@ -49,8 +49,8 @@ p{
 #p2{
 	background-color:white;
 	position: absolute;
-	top: 1px;
-	right: 1px;
+	top: 0;
+	right: 0;
 	border: 10px;
 	border: black;
 	float: left;
@@ -63,8 +63,8 @@ p{
 #p3{
 	background-color:green;
 	position: absolute;
-	top: 1px;
-	right: 1px;
+	top: 0;
+	right: 0;
 	border: 10px;
 	border: black;
 	float: left;
