@@ -30,47 +30,42 @@ p{
 	border:black;
 	margin: 2px;
 	padding: 10px;
+	height: 50px,
 	
 }
 
 #p1{
 	background-color:orange;
 	position: absolute;
-	top: 0;
-	right: 0;
-	border: 10px;
-	border: black;
+	border: 1px solid black;
 	float: left;
 	margin: 10px;
 	clear: right;
 	padding: 15px;
+	height: 2px;
 }
 	
 #p2{
 	background-color:white;
 	position: absolute;
-	top: 0;
-	right: 0;
-	border: 10px;
-	border: black;
+	border: 1px solid black;
 	float: left;
 	margin: 10px;
 	clear: right;
 	padding: 15px;
+	height: 2px;
 	
 }
 
 #p3{
 	background-color:green;
 	position: absolute;
-	top: 0;
-	right: 0;
-	border: 10px;
-	border: black;
+	border: 1px solid black;
 	float: left;
 	margin: 10px;
 	clear: right;
 	padding: 15px;
+	height: 2px;
 
 @media (min-width: 992px) {
 	.col-lg-1,.col-lg-2,.col-lg-3{
