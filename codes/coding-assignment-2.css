@@ -21,7 +21,6 @@ div{
 	border:1px solid black;
 	position: relative;
 	padding: 10px;
- 	margin: 5px;
 	}
 	
 	
@@ -29,7 +28,6 @@ p{
 	color:black;
 	border:1px; 
 	border:black;
-	margin: 2px;
 	height: 50px,
 	
 }
