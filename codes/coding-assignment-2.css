@@ -1,7 +1,7 @@
 *{
 	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
+	margin: 50px;
+	padding: 50px;
 }
 
 .row{
@@ -37,6 +37,7 @@ p{
 	position: absolute;
 	top: 1px;
 	right: 1px;
+	padding:
 }
 	
 #p2{
