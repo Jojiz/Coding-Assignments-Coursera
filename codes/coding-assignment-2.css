@@ -1,7 +1,7 @@
 *{
 	box-sizing: border-box;
-	margin: 100px;
-	padding: 50px;
+	margin: 0;
+	padding: 0;
 }
 
 .row{
@@ -21,14 +21,14 @@ div{
 	background-color: grey;
 	border:1px solid black;
 	position: relative;
+	padding: 10px;
 }
 	
 	
 p{
 	color:black;
-	border:1px solid black;
-	width: 50%;
-	background-color: grey;
+	border:1px; 
+	border:black;
 	float: left;
 }
 
@@ -37,7 +37,6 @@ p{
 	position: absolute;
 	top: 1px;
 	right: 1px;
-	c
 	border: black;
 }
 	
@@ -46,7 +45,6 @@ p{
 	position: absolute;
 	top: 1px;
 	right: 1px;
-	padding: 10px;
 	border: black;
 	
 }
@@ -56,7 +54,6 @@ p{
 	position: absolute;
 	top: 1px;
 	right: 1px;
-	padding: 10px;
 	border: black;
 }
 
