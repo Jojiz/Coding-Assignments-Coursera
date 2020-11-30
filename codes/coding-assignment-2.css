@@ -30,6 +30,7 @@ p{
 	border:black;
 	float: left;
 	margin: 2px;
+	padding: 10px;
 }
 
 #p1{
@@ -40,6 +41,7 @@ p{
 	border: black;
 	float: left;
 	margin: 2px;
+	clear: right;
 }
 	
 #p2{
@@ -50,6 +52,7 @@ p{
 	border: black;
 	float: left;
 	margin: 2px;
+	clear: right;
 	
 }
 
@@ -61,6 +64,7 @@ p{
 	border: black;
 	float: left;
 	margin: 2px;
+	clear: right;
 }
 
 @media (min-width: 992px) {
