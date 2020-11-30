@@ -10,7 +10,6 @@
 
 .style{
 	font-family: Arial, Helvetica, sans-serif;
-	text-align: center;
 }
 
 section{
@@ -21,6 +20,9 @@ div{
 	background-color: grey;
 	border:1px solid black;
 	position: relative;
+	text-align: center;
+	padding: 10px;
+ 	margin: 5px;
 	}
 	
 	
@@ -31,6 +33,7 @@ p{
 	margin: 2px;
 	padding: 10px;
 	height: 50px,
+	text-align: center;
 	
 }
 
@@ -42,9 +45,10 @@ p{
 	margin: 10px;
 	clear: right;
 	padding: 15px;
-	height: 2px;
+	height: 10px;
 	right: 0;
 	top: 0;
+	
 }
 	
 #p2{
@@ -55,7 +59,7 @@ p{
 	margin: 10px;
 	clear: right;
 	padding: 15px;
-	height: 2px;
+	height: 10px;
 	right: 0;
 	top: 0;
 	
@@ -69,7 +73,7 @@ p{
 	margin: 10px;
 	clear: right;
 	padding: 15px;
-	height: 2px;
+	height: 10px;
 	right: 0;
 	top: 0;
 
