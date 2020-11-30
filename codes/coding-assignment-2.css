@@ -37,7 +37,8 @@ p{
 	position: absolute;
 	top: 1px;
 	right: 1px;
-	padding:
+	c
+	border: black;
 }
 	
 #p2{
@@ -45,6 +46,9 @@ p{
 	position: absolute;
 	top: 1px;
 	right: 1px;
+	padding: 10px;
+	border: black;
+	
 }
 
 #p3{
@@ -52,6 +56,8 @@ p{
 	position: absolute;
 	top: 1px;
 	right: 1px;
+	padding: 10px;
+	border: black;
 }
 
 @media (min-width: 992px) {
